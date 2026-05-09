@@ -1,4 +1,4 @@
-# 1PS Healthcare Platform
+# Medsync Healthcare Platform
 
 A modern, responsive healthcare platform built with React and Tailwind CSS.
 
