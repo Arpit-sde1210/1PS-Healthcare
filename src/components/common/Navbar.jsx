@@ -52,7 +52,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <div className="flex-shrink-0">
             <Link to="/" className="text-2xl font-bold text-primary-600 hover:text-primary-700 transition-colors duration-200">
-              1PS Healthcare
+              Medsync
             </Link>
           </div>
 

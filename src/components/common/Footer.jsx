@@ -33,7 +33,7 @@ const Footer = () => {
 
   const contactInfo = [
     { icon: Phone, text: '+1 (555) 123-4567' },
-    { icon: Mail, text: 'contact@1pshealthcare.com' },
+    { icon: Mail, text: 'contact@medsync.com' },
     { icon: MapPin, text: '123 Healthcare Street, Medical City, MC 12345' },
   ];
 
@@ -43,7 +43,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div>
-            <h3 className="text-xl font-bold mb-4">1PS Healthcare</h3>
+            <h3 className="text-xl font-bold mb-4">Medsync</h3>
             <p className="text-gray-400 mb-4">
               Providing quality healthcare services with compassion and innovation.
             </p>
@@ -115,7 +115,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © {currentYear} 1PS Healthcare. All rights reserved.
+              © {currentYear} Medsync. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               {footerLinks.support.map((link) => (
